@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-//this is comment
+//this is a hello world program
 int main() 
 {
   cout << "Hello World" << endl;
