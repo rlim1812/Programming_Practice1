@@ -1,10 +1,6 @@
-//
-//  main.cpp
-//  HelloWorld
-//
+
 //  Created by Ryan Lim on 10/31/15.
 //  Copyright © 2015 Ryan Lim. All rights reserved.
-//
 
 #include <iostream>
 #include <vector>
